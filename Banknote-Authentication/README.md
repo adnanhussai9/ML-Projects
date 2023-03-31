@@ -186,7 +186,7 @@ The dataset that we have used in our project is the [banknote authentication dat
 * Finally, the accuracy of all these algorithms are calculated and displayed in a tabular fashion for easy comparison.
 ### * **Google Colab Link:**
 
-[https://drive.google.com/file/d/1wCDpxZA3qXIGJSI2_k30U-iSoD1AHkHh/view?usp=sharing](https://drive.google.com/file/d/1wCDpxZA3qXIGJSI2_k30U-iSoD1AHkHh/view?usp=sharing)
+[https://colab.research.google.com/drive/13eG0ldhYJrve5J2yMi9KUQ-oLFdGziTs?usp=sharing)
 
 
 ## 5.  RESULT
